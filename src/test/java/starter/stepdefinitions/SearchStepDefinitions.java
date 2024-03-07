@@ -29,4 +29,5 @@ public class SearchStepDefinitions {
                 Ensure.that(TheWebPage.title()).containsIgnoringCase(term)
         );
     }
+
 }
